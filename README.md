@@ -11,3 +11,4 @@ Este projeto tem como objetivo planejar e organizar um evento de promoção da a
 Para começar, utilizei o Copilot para pesquisar e gerar uma lista de dicas práticas para incentivar a leitura entre as crianças. As dicas foram refinadas e adaptadas ao público-alvo do evento.
 ### **Prints**
 - **Exemplo de Pesquisa:** Capture uma imagem da interface do Copilot mostrando o momento em que você pesquisou e obteve as dicas.
+![Pesquisa de Dicas no Copilot](output/1lista_incentivo_leitu.png)
