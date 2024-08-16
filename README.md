@@ -23,3 +23,10 @@ Para começar, utilizei o Copilot para pesquisar e gerar uma lista de dicas prá
 O folheto foi criado utilizando o Canva, onde escolhi um modelo visual delicado e Lúdico. O texto adicionado foi gerado pelo Copilot na etapa de dicas para incentivar leitura, retirei algumas dessas dicas e montei o folheto, e as imagens já algumas já tinha no folheto e uma biblioteca gratuita de ícones e fotos. O layout foi ajustado para garantir clareza e impacto visual.
 
 ## **Captura da imagem mostrando o modelo escolhido no Canva para personalizar.
+<div style="display: flex; flex-direction: row; justify-content: space-between;" style="text-align: center; width: 25%;">
+    <img src="inputs/modelo_folheto.png" alt="Escolha do Modelo" style="width: 46%; margin-right: 5%;">
+    <img src="inputs/folheto_Pronto.png" alt="Folheto Finalizado" style="width: 41%;">
+  </div>
+</div>
+
+
